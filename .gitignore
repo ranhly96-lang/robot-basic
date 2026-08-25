@@ -1,0 +1,15 @@
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Build and generated files
+build/
+*.o
+*.elf
+*.hex
+*.bin
+
+# Local media exports
+media/*.mp4
+media/*.mov
